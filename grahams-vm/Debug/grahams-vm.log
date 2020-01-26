@@ -1,0 +1,8 @@
+﻿  graham_vm.cpp
+C:\Users\gecko\source\repos\grahams-vm\grahams-vm\vm-src\cpu_structure\graham_vm.hpp(10,43): warning C4305: 'initializing': truncation from 'int' to 'const uint16_t'
+C:\Users\gecko\source\repos\grahams-vm\grahams-vm\vm-src\cpu_structure\graham_vm.hpp(10,38): warning C4309: 'initializing': truncation of constant value
+  main.cpp
+C:\Users\gecko\source\repos\grahams-vm\grahams-vm\vm-src\cpu_structure\graham_vm.hpp(10,43): warning C4305: 'initializing': truncation from 'int' to 'const uint16_t'
+C:\Users\gecko\source\repos\grahams-vm\grahams-vm\vm-src\cpu_structure\graham_vm.hpp(10,38): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
+  grahams-vm.vcxproj -> C:\Users\gecko\source\repos\grahams-vm\Debug\grahams-vm.exe
